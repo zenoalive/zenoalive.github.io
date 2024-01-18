@@ -232,15 +232,15 @@ button {
 
 /* header section start */
 
-.header_section {
+.top_section {
     width: 100%;
     float: left;
-    background-color: #8eb50b;
+    background-color: #09113b67;
     height: auto;
 }
 
 .bg-light {
-    background-color: #8eb50b!important;
+    background-color: #1b1c37!important;
 }
 
 .sidenav {
@@ -330,7 +330,7 @@ button {
 /* header section end */
 
 
-/* banner section start */
+/* services section start */
 
 .layout_main {
     width: 100%;
@@ -340,7 +340,7 @@ button {
     float: left;
 }
 
-.banner_section {
+.services_section {
     width: 100%;
     float: left;
     background-image: url(../images/banner-bg.png);
@@ -360,36 +360,36 @@ button {
     padding: 20px 20px;
 }
 
-.custome_menu {
-    width: 78%;
+.list_menu {
+    width: 80%;
     float: left;
 }
 
-.custome_menu ul {
+.list_menu ul {
     padding: 0px;
     margin: 0px;
 }
 
-.custome_menu li {
+.list_menu li {
     float: left;
     font-size: 18px;
-    color: #ffffff;
+    color: #ffffffc7;
     padding: 0px 10px;
     text-transform: uppercase;
 }
 
-.custome_menu li a {
+.list_menu li a {
     color: #ffffff;
 }
 
-.custome_menu li a:hover {
-    color: #8eb50b;
+.list_menu li a:hover {
+    color: #b9bdd7;
 }
-.custome_menu li.active a{
-    color: #8eb50b;
+.list_menu li.active a{
+    color: #b5bdf0ab;
 }
 
-.login_menu {}
+
 
 .login_menu ul {
     padding: 0px;
@@ -399,7 +399,7 @@ button {
 .login_menu li {
     float: left;
     font-size: 18px;
-    color: #ffffff;
+    color: #ffffffc7;
     padding: 0px 20px;
     text-transform: uppercase;
 }
@@ -409,7 +409,7 @@ button {
 }
 
 .login_menu li a:hover {
-    color: #8eb50b;
+    color: #b9bdd7;
 }
 
 .banner_taital {
