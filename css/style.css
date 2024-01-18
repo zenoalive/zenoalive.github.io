@@ -65,6 +65,10 @@ a {
     -o-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
 }
+.image_logo {
+    height: 72px;
+    width: auto;
+}
 
 h1,
 h2,
