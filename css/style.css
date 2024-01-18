@@ -43,7 +43,7 @@ html {
 }
 
 body {
-    color: #666666;
+    color: #66666652;
     font-size: 14px;
     line-height: 1.80857;
     font-weight: normal;
@@ -82,7 +82,7 @@ h6 {
     padding: 0 0 10px 0;
     font-weight: normal;
     line-height: normal;
-    color: #111111;
+    color: #1111118e;
     margin: 0
 }
 
@@ -165,10 +165,10 @@ a,
     transition: all .3s ease-in-out;
 }
 
-img {
+ img {
     max-width: 100%;
     height: auto;
-}
+} 
 
  :focus {
     outline: 0;
@@ -298,7 +298,6 @@ button {
     }
 }
 
-.login_text {}
 
 .login_text a {
     font-size: 18px;
@@ -581,7 +580,7 @@ input.form-control::placeholder {
 #main_slider .carousel-control-next:hover,
 #main_slider .carousel-control-prev:focus,
 #main_slider .carousel-control-next:focus {
-    background-color: #f9b116;
+    background-color: #070b3a;
     color: #000;
 }
 
@@ -619,7 +618,10 @@ input.form-control::placeholder {
     margin-top: 20px;
 }
 
-
+.service_box img {
+    width: 100%;
+    height: 100%
+}
 .breakfast_img {
     width: 100%;
     text-align: center;
@@ -651,7 +653,7 @@ input.form-control::placeholder {
     float: left;
     font-size: 16px;
     color: #fefbfb;
-    background-color: #8eb50b;
+    background-color: #0c032c;
     text-align: center;
     padding: 10px 0px;
     font-weight: bold;
@@ -660,12 +662,12 @@ input.form-control::placeholder {
 
 .seemore_bt a:hover {
     color: #fefbfb;
-    background-color: #ff9800;
+    background-color: #051f6d;
 }
 
 .readmore_bt.active a {
     color: #fcfcfd;
-    background-color: #f9b116;
+    background-color: #0806499d;
 }
 
 .image-container img {
@@ -716,7 +718,7 @@ input.form-control::placeholder {
 }
 
 .lorem_text {
-    width: 100%;
+    width: 80%;
     float: left;
     font-size: 16px;
     color: #f8f8f8;
@@ -759,7 +761,7 @@ input.form-control::placeholder {
 .shop_section {
     width: 100%;
     float: left;
-    background-color: #8eb50b;
+    background-color: #05044f;
     height: auto;
     padding: 90px 0px;
     background-size: cover;
@@ -1140,10 +1142,10 @@ input.form-control::placeholder {
     border-radius: 100%;
 }
 .footer_menu li:hover::after {
-    background-color: #8eb50b;
+    background-color: #0614586f;
 }
 .footer_menu li.active::after {
-    background-color: #8eb50b;
+    background-color: #120542b7;
 }
 
 .padding_left15 {
@@ -1167,7 +1169,7 @@ input.form-control::placeholder {
 }
 
 .subscribe_menu li a:hover {
-    color: #8eb50b;
+    color: #1603657a;
 }
 
 .social_icon {
@@ -1200,7 +1202,7 @@ input.form-control::placeholder {
 }
 
 .social_icon li a:hover {
-    background-color: #8eb50b;
+    background-color: #1205686f;
     color: #ffffff;
 }
 
@@ -1219,7 +1221,7 @@ input.form-control::placeholder {
 .copyright_section {
     width: 100%;
     float: left;
-    background-color: #8eb50b;
+    background-color: #2059af;
     height: auto;
 }
 
