@@ -43,7 +43,7 @@ html {
 }
 
 body {
-    color: #66666652;
+    color: #66666660;
     font-size: 14px;
     line-height: 1.80857;
     font-weight: normal;
@@ -225,7 +225,7 @@ button {
 }
 
 .layout_padding {
-    padding-top: 90px;
+    padding-top: 60px;
     padding-bottom: 0px;
 }
 
@@ -239,12 +239,12 @@ button {
 .top_section {
     width: 100%;
     float: left;
-    background-color: #09113b67;
+    background-color: rgba(20, 20, 255, 0.645);
     height: auto;
 }
 
 .bg-light {
-    background-color: #1b1c37!important;
+    background-color: rgba(20, 20, 255, 0.645)!important;
 }
 
 .sidenav {
@@ -272,7 +272,7 @@ button {
 }
 
 .sidenav a:hover {
-    color: #1b8943;
+    color: rgba(20, 20, 255, 0.645);
 }
 
 .sidenav .closebtn {
@@ -308,7 +308,7 @@ button {
 }
 
 .login_text a:hover {
-    color: #8eb50b;
+    color: rgba(20, 20, 255, 0.645);
 }
 
 .navbar-light .navbar-brand {
@@ -386,10 +386,10 @@ button {
 }
 
 .list_menu li a:hover {
-    color: #b9bdd7;
+    color: rgba(255, 255, 255, 0.522);
 }
 .list_menu li.active a{
-    color: #b5bdf0ab;
+    color: rgba(20, 255, 231, 0.637);
 }
 
 
@@ -430,7 +430,7 @@ button {
     width: 35%;
     margin: 0 auto;
     font-size: 50px;
-    color: #8eb50b;
+    color: rgba(20, 255, 231, 0.637);
     font-weight: 800;
     text-align: center;
     background-color: #ffffff;
@@ -452,7 +452,7 @@ button {
     float: left;
     font-size: 20px;
     color: #ffffff;
-    background-color: #8eb50b;
+    background-color: rgba(20, 255, 231, 0.637);
     padding: 10px 0px;
     text-align: center;
     border-radius: 5px;
@@ -555,7 +555,7 @@ input.form-control::placeholder {
     position: absolute;
     left: 0px;
     top: 50%;
-    background-color: #f9b116;
+    background-color: #09378e;
     color: #252525;
 }
 
@@ -591,6 +591,7 @@ input.form-control::placeholder {
 /* service section start */
 
 .service_section {
+    margin: 20px 0 40px 0;
     width: 100%;
     float: left;
     padding-top: 20px;
@@ -608,7 +609,9 @@ input.form-control::placeholder {
 .service_section_2 {
     width: 100%;
     float: left;
-    padding-top: 30px;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-bottom: 20px;
 }
 
 .service_box {
@@ -653,7 +656,7 @@ input.form-control::placeholder {
     float: left;
     font-size: 16px;
     color: #fefbfb;
-    background-color: #0c032c;
+    background-color: #09378e;
     text-align: center;
     padding: 10px 0px;
     font-weight: bold;
@@ -736,7 +739,7 @@ input.form-control::placeholder {
     float: left;
     font-size: 16px;
     color: #fcfcfd;
-    background-color: #8eb50b;
+    background-color: rgba(20, 255, 231, 0.637);
     text-align: center;
     padding: 10px 0px;
     font-weight: bold;
@@ -745,7 +748,7 @@ input.form-control::placeholder {
 
 .readmore_btn a:hover {
     color: #fcfcfd;
-    background-color: #ff9800;
+    background-color: #09378e;
 }
 
 .blog_img img {
@@ -759,9 +762,10 @@ input.form-control::placeholder {
 /* shop section start */
 
 .shop_section {
+    margin-top: 40px;
     width: 100%;
     float: left;
-    background-color: #05044f;
+    background-color: #09378e;
     height: auto;
     padding: 90px 0px;
     background-size: cover;
@@ -814,7 +818,7 @@ input.form-control::placeholder {
 
 .download_bt a:hover {
     color: #fcfcfd;
-    background-color: #ff9800;
+    background-color: #09378e;
 }
 
 /* shop section end */
@@ -848,7 +852,7 @@ input.form-control::placeholder {
     width: 100%;
     float: left;
     font-size: 20px;
-    color: #8eb50b;
+    color: rgba(20, 255, 231, 0.637);
 }
 
 .many_text {
@@ -872,7 +876,7 @@ input.form-control::placeholder {
     left: -60px;
     right: 0px;
     top: 130%;
-    background-color: #8eb50b;
+    background-color: rgba(20, 255, 231, 0.637);
     color: #ffffff;
 }
 
@@ -899,7 +903,7 @@ input.form-control::placeholder {
 #my_slider .carousel-control-next:hover,
 #my_slider .carousel-control-prev:focus,
 #my_slider .carousel-control-next:focus {
-    background-color: #8eb50b;
+    background-color: rgba(20, 255, 231, 0.637);
     color: #ffffff;
 }
 
@@ -943,7 +947,7 @@ input.form-control::placeholder {
     font-size: 16px;
     color: #363636;
     border: 0px;
-    border: 2px solid #8eb50b !important;
+    border: 2px solid rgba(20, 255, 231, 0.637) !important;
     background-color: #ffffff !important;
     padding: 10px 15px 10px 15px;
     margin-top: 20px;
@@ -954,7 +958,7 @@ input.form-control::placeholder {
     width: 100%;
     height: 110px;
     font-size: 18px;
-    border: 2px solid #8eb50b !important;
+    border: 2px solid rgba(20, 255, 231, 0.637) !important;
     background-color: #ffffff !important;
     padding: 40px 15px 10px 15px;
     margin-top: 20px;
@@ -969,7 +973,7 @@ input.form-control::placeholder {
 .send_bt a {
     width: 100%;
     float: left;
-    background-color: #8eb50b;
+    background-color: rgba(20, 255, 231, 0.637);
     color: #fefeff;
     text-align: center;
     padding: 12px 0px;
@@ -978,7 +982,7 @@ input.form-control::placeholder {
 }
 
 .send_bt a:hover {
-    background-color: #ff9800;
+    background-color: #09378e;
     color: #fefeff;
 }
 
@@ -1024,7 +1028,7 @@ input.form-control::placeholder {
 .order_bt a {
     width: 100%;
     float: left;
-    background-color: #8eb50b;
+    background-color: rgba(20, 255, 231, 0.637);
     color: #fefeff;
     text-align: center;
     padding: 12px 0px;
@@ -1035,7 +1039,7 @@ input.form-control::placeholder {
 }
 
 .order_bt a:hover {
-    background-color: #ff9800;
+    background-color: #09378e;
     color: #fefeff;
 }
 
@@ -1065,14 +1069,14 @@ input.form-control::placeholder {
 }
 
 .map_icon a:hover {
-    color: #8eb50b;
+    color: rgba(20, 255, 231, 0.637);
 }
 
 .address_text {
     width: 100%;
     float: left;
     font-size: 14px;
-    color: #8eb50b;
+    color: rgba(20, 255, 231, 0.637);
     margin: 0px;
     padding-left: 23px;
 }
