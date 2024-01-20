@@ -415,7 +415,7 @@ button {
     color: #b9bdd7;
 }
 
-.banner_taital {
+.banner_design {
     width: 70%;
     margin: 0 auto;
     font-size: 50px;
@@ -597,7 +597,7 @@ input.form-control::placeholder {
     padding-top: 20px;
 }
 
-.service_taital {
+.service_design {
     width: 100%;
     float: left;
     font-size: 50px;
@@ -705,7 +705,7 @@ input.form-control::placeholder {
     margin-bottom: 40px;
 }
 
-.blog_taital {
+.blog_design {
     width: 100%;
     float: left;
     font-size: 50px;
@@ -724,7 +724,7 @@ input.form-control::placeholder {
     background-repeat: no-repeat;
 }
 
-.blog_taital_main {
+.blog_design_main {
     width: 100%;
     float: left;
     padding-top: 30px;
@@ -805,7 +805,7 @@ input.form-control::placeholder {
     background-size: cover;
 }
 
-.shop_taital {
+.shop_design {
     width: 100%;
     float: left;
     font-size: 50px;
@@ -869,7 +869,7 @@ input.form-control::placeholder {
     padding-bottom: 180px;
 }
 
-.testimonial_taital {
+.testimonial_design {
     width: 100%;
     float: left;
     font-size: 50px;
@@ -954,7 +954,7 @@ input.form-control::placeholder {
     float: left;
 }
 
-.contact_taital {
+.contact_design {
     width: 100%;
     float: left;
     color: #ffffff;
@@ -1037,7 +1037,7 @@ input.form-control::placeholder {
     padding-top: 50px;
 }
 
-.order_taital_main {
+.order_design_main {
     width: 80%;
     display: flex;
     background-color: #ffffff;
@@ -1047,7 +1047,7 @@ input.form-control::placeholder {
     margin: 0 auto;
 }
 
-.order_taital {
+.order_design {
     width: 100%;
     float: left;
     font-size: 40px;
