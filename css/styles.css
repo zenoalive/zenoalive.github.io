@@ -780,6 +780,29 @@ input.form-control::placeholder {
     text-transform: uppercase;
 }
 
+.areas_btn {
+    margin-top: 40px;
+    margin-bottom: 40px;;
+}
+
+.areas_btn button {
+    width: 90%;
+    height: auto;
+}
+
+
+
+.areas_btn button a{
+    width: 100%;
+    float: left;
+    font-size: 20px;
+    color: #4c4411;
+    background-color: rgba(200, 200, 200,0.8);
+    padding: 10px 0px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .readmore_btn a:hover {
     color: #fcfcfd;
     background-color: #09378e;
@@ -842,7 +865,7 @@ input.form-control::placeholder {
 .download_bt a {
     width: 100%;
     float: left;
-    font-size: 16px;
+    font-size: 20px;
     color: #1a1919;
     background-color: #ffffff;
     padding: 10px 0px;
@@ -850,11 +873,35 @@ input.form-control::placeholder {
     font-family: 'Lato', sans-serif;
 }
 
+
 .download_bt a:hover {
     color: #fcfcfd;
     background-color: #09378e;
 }
+.separate_bt {
+    width: 170px;
+    float: left;
+}
 
+.separate_bt a {
+    width: 100%;
+    float: left;
+    font-size: 30px;
+    color: #38d012b2;
+    padding: 10px 0px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+
+
+.separate_bt a:hover {
+    color: #fcfcfd;
+    background-color: #09378e;
+}
+
+.active_area{
+    background-color: #050443 !important;  
+ } 
 .about_us {
     margin-bottom: 60px;;
 }
