@@ -634,7 +634,7 @@ input.form-control::placeholder {
     justify-content: center;
 }
 
-.team_img {
+.teamimg {
     width: 100%;
     text-align: center;
     padding: 20px 20px 20px 20px;
@@ -642,7 +642,7 @@ input.form-control::placeholder {
     align-items: center;
     justify-content: center;
 }
-.team_img img {
+.teamimg img {
    height: 260px;
    width: 230px;
 }
