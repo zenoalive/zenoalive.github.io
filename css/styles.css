@@ -1303,6 +1303,23 @@ input.form-control::placeholder {
     display: block;
     margin: 0 auto;
   }
+
+  .carousel-caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+}
+
+.carousel-caption h5 {
+    color: white; /* Set text color to white */
+    background-color: rgba(0, 0, 0, 0.5); /* Set background color with some transparency */
+    padding: 10px 20px; /* Add padding for better visibility */
+    border-radius: 5px; /* Optional: Add border-radius for rounded corners */
+    font-size: 40px;
+}
 /* footer section end */
 
 
