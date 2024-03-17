@@ -64,7 +64,7 @@ a {
     transition: all .3s ease-in-out;
 }
 .image_logo {
-    height: 72px;
+    height: 73px;
     width: auto;
 }
 
@@ -359,12 +359,14 @@ button {
     height: auto;
     display: flex;
     padding: 20px 20px;
+    justify-content: space-evenly;
 }
-
+/* 
 .list_menu {
     width: 80%;
     float: left;
-}
+} */
+
 
 .list_menu ul {
     padding: 0px;
@@ -601,7 +603,18 @@ input.form-control::placeholder {
     font-size: 50px;
     color: #fefbfb;
     font-weight: 800;
+    text-align: left;
+}
+
+.service_design_header {
+    width: 100%;
+    float: left;
+    font-size: 60px;
+    color: #fefbfbd6;
+    font-weight: 800;
     text-align: center;
+    background: #020613;
+    margin-bottom: 30px;
 }
 
 .service_section_2 {
