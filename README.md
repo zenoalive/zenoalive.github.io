@@ -1,4 +1,8 @@
+                                Prince and Sparrow
 
+
+
+                                
 He was a prince, yet he shied away from the title, rejecting the fame and prestige of his royal lineage. Despite the legacy of bravery and valor upheld by his forefathers, he was unmoved by their illusory grandeur. Instead, he was drawn to an alternative lifestyle which suited his kind nature. To paint his canvas with every color he could find was all he cared about. His love for painting, and his desire to infuse the world with color and life, was frequently met with criticism from his family and friends. But he was resolute, undaunted by their opinions. The shallow snobbery of the rich and the greed for power never once touched his soft heart. The canvas in his room was always ready to be painted, and his artistic yearnings could only be fulfilled through his love of color and creation.
 
 As he painted and allowed his imagination to run wild with vibrant hues, the chords of his heart were connected to a little parrot who lived in a golden cage in his room. Her melodic songs filled the prince's soul with love and a sense of belonging. The joy and peace he got from her songs was not merely due to her sweet voice, but because he could feel life in its purest form in them. Whenever the world weighed heavy on him, the bird's song uplifted his spirit and fueled the fire of inspiration in his art. The shimmering cage glimmered like a treasure in a deity's chamber, a symbol of divinity and solace it brought to the prince's heart.
